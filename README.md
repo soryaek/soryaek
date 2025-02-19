@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://soryaek.github.io/](https://soryaek.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@sorya.ek](https://medium.com/@sorya.ek)
+- 📝 I write articles on [https://medium.com/@sorya.ek](https://medium.com/@sorya.ek)
 
 - 💬 Ask me about **React, Python, JavaScript**
 
