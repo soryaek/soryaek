@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Sorya Ek</h1>
-<h3 align="left">💻 Software Engineer | Open-Source Contributor @freeCodeCamp</h3>
+<h3 align="left">💻 Software Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://soryaek.github.io/)
 
