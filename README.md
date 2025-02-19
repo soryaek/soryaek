@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Sorya Ek</h1>
 <h3 align="left">💻 Software Engineer | Open-Source Contributor @freeCodeCamp</h3>
 
-- 👨‍💻 All of my projects are available at [https://soryaek.github.io/](https://soryaek.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://soryaek.github.io/)
 
-- 📝 I write articles on [https://medium.com/@sorya.ek](https://medium.com/@sorya.ek)
+- 📝 I write articles on [Medium.com](https://medium.com/@sorya.ek)
 
 - ⚡ Fun fact **I love coding, but I also enjoy traveling,and trying new foods!**
 
