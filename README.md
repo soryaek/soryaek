@@ -1,11 +1,11 @@
-<h1 align="left">Hi 👋, I'm Sorya Ek</h1>
+<h1 align="left">Hi 👋 I'm Sorya Ek</h1>
 <h3 align="left">💻 Software Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://soryaek.github.io/)
 
 - 📝 I write articles on [Medium.com](https://medium.com/@sorya.ek)
 
-- ⚡ Fun fact **I love coding, but I also enjoy traveling,and trying new foods!**
+- ⚡ Fun fact: **I love coding, but I also enjoy traveling,and trying new foods!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
