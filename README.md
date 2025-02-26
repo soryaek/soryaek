@@ -5,7 +5,7 @@
 
 - 📝 I write articles on [Medium.com](https://medium.com/@sorya.ek)
 
-- ⚡ Fun fact: **I love coding, but I also enjoy traveling,and trying new foods!**
+- ⚡ Fun fact: I love coding, but I also enjoy traveling,and trying new foods!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
